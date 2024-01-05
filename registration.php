@@ -23,6 +23,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Neil_Neil',
+    'Chuccv_Neil',
     __DIR__
 );
